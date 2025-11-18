@@ -10,3 +10,9 @@
 ![](src/topologi_vlsm.png)
 
 ![](src/vlsm_tree.png)
+
+## VLSM
+
+![](src/cidr.jpg)
+
+![](src/cidr_tree.jpg)
