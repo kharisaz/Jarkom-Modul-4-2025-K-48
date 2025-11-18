@@ -11,7 +11,7 @@
 
 ![](src/vlsm_tree.png)
 
-## VLSM
+## CIDR
 
 ![](src/cidr.jpg)
 
